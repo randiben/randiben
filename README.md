@@ -1,10 +1,20 @@
 <h2>Hello there, I’m Randi. </h2>
 I’m currently learning (SQA) Software Quality Assurance Automation. </br>
-I’m looking for a job as SQA Automation.
-<h4> Skills Programming </h4>
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" width="30">
+I’m looking for a job as SQA Automation.</br>
+</br>
 
-m How to reach me ...
+<h4> Skills Programming </h4>
+Java
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="30">
+Cucumber
+<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="30">
+Selenium
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="30">
+Maven
+<img src="https://www.svgrepo.com/show/354051/maven.svg" width="30">
+Testng
+<img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" width="30">
+How to reach me ...
 
 <!---
 randiben/randiben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
