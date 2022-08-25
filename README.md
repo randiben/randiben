@@ -5,11 +5,11 @@ I’m looking for a job as SQA Automation.</br>
 
 <h4> Skills Programming </h4>
 <p>
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="30">
-<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="30">
-<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="30">
-<img src="https://www.svgrepo.com/show/354051/maven.svg" width="30">
-<img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" width="30">
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> Java
+<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40">  
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="40">  
+<img src="https://www.svgrepo.com/show/354051/maven.svg" width="40">  
+<img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" width="40">
 </p>
   How to reach me ...
 
