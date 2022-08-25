@@ -2,7 +2,7 @@
 I’m currently learning (SQA) Software Quality Assurance Automation. </br>
 I’m looking for a job as SQA Automation.</br>
 
-<h4> Skills Programming </h4>
+<h3> Skills Programming </h3>
   <p>  
     <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" width="40">
     <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="40">  
@@ -16,11 +16,19 @@ I’m looking for a job as SQA Automation.</br>
   </p>
   <p>Cucumber, Selenium, Maven, Testng, Java, MySQL, PHP, UiPath, Postman </p>
 
-<h4> Reach me at </h4>
+<h3> Reach me at </h3>
   <p> 
+    <a href="https://wa.me/6285763267349">
+      <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="40">
+    </a>
     <a href="www.linkedin.com/in/randi-ebenezer-sihaloho">
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40">
     </a>
+    <a href="mailto:randinezer24@gmail.com">
+      <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="40">
+    </a>
+  
+  
     
   </p>
   
