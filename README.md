@@ -2,7 +2,7 @@
 I’m currently learning (SQA) Software Quality Assurance Automation. </br>
 I’m looking for a job as SQA Automation.
 <h4> Skills Programming </h4>
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" width="30">
 
 m How to reach me ...
 
